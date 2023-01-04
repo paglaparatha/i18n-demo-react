@@ -1,7 +1,7 @@
 {
   "name": "multilingual",
   "version": "0.1.0",
-  "homepage": "https://paglaparatha.github.io/i18n-demo-react",
+  "homepage": "https://paglaparatha.github.io/i18n-demo-react/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
