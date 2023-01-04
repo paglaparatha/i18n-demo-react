@@ -20,7 +20,7 @@ const Header = () => {
 	return (
 		<nav className="navbar navbar-expand-lg navbar-dark bg-dark">
 			<Link className="navbar-brand" to="/">
-				{t("yousuckatcoding")}
+				{t("demo")}
 			</Link>
 			<button
 				className="navbar-toggler"
