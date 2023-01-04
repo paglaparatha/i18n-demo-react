@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/i18n-demo-react/static/css/main.afd7172b.chunk.css",
+    "main.js": "/i18n-demo-react/static/js/main.4fa25f59.chunk.js",
+    "main.js.map": "/i18n-demo-react/static/js/main.4fa25f59.chunk.js.map",
+    "runtime-main.js": "/i18n-demo-react/static/js/runtime-main.03249d89.js",
+    "runtime-main.js.map": "/i18n-demo-react/static/js/runtime-main.03249d89.js.map",
+    "static/js/2.420b5b18.chunk.js": "/i18n-demo-react/static/js/2.420b5b18.chunk.js",
+    "static/js/2.420b5b18.chunk.js.map": "/i18n-demo-react/static/js/2.420b5b18.chunk.js.map",
+    "static/js/3.5b765017.chunk.js": "/i18n-demo-react/static/js/3.5b765017.chunk.js",
+    "static/js/3.5b765017.chunk.js.map": "/i18n-demo-react/static/js/3.5b765017.chunk.js.map",
+    "index.html": "/i18n-demo-react/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/i18n-demo-react/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.420b5b18.chunk.js.LICENSE.txt": "/i18n-demo-react/static/js/2.420b5b18.chunk.js.LICENSE.txt",
+    "static/media/getFetch.cjs": "/i18n-demo-react/static/media/getFetch.582d29c4.cjs"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03249d89.js",
+    "static/js/2.420b5b18.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.4fa25f59.chunk.js"
+  ]
+}
