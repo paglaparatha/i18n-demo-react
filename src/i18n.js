@@ -8,8 +8,8 @@ i18n.use(Backend)
 	.use(initReactI18next)
 	.init({
 		backend: {
-			// translation file path
-			loadPath: "/assets/i18n/{{ns}}/{{lng}}.json",
+			// translation file path (repo name added for gh-pages only)
+			loadPath: "/i18n-demo-react/assets/i18n/{{ns}}/{{lng}}.json",
 		},
 		fallbackLng: "en",
 		// disabled in production
